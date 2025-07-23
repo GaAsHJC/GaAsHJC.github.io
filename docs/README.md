@@ -3,7 +3,7 @@ pageClass: home-page
 # some data for the components
 
 name: Yinglin Zheng（hjc）
-profile: 
+profile: /profile.jpg
 
 socials:
   - title: github
