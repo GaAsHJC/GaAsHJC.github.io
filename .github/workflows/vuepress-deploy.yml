@@ -15,6 +15,9 @@ jobs:
       with:
         node-version: 22
 
+    - name: del yarn lock
+      run: rm yarn.lock
+
     - name: Install deps
       run: yarn
 
