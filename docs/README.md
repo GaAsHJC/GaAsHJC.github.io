@@ -1,6 +1,6 @@
 ---
 pageClass: home-page
-# some data for the components
+# some data for the component
 
 name: jiachen huang
 profile: /profile.jpg
