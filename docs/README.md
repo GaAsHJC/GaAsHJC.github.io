@@ -2,7 +2,7 @@
 pageClass: home-page
 # some data for the components
 
-name: Yinglin Zheng（郑英林）
+name: Yinglin Zheng（hjc）
 profile: /profile.jpg
 
 socials:
