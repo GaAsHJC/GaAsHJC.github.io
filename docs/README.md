@@ -2,7 +2,7 @@
 pageClass: home-page
 # some data for the components
 
-name: jiachen huang
+name: jiachen huan
 profile: /profile.jpg
 
 socials:
